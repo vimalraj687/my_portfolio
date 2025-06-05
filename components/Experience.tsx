@@ -19,7 +19,7 @@ export const Experience = () => {
                             </div>
                             <div>
                                 <h3 className=" text-base md:text-xl font-semibold">Software Developer</h3>
-                                <p className="">E-tech Services Pvt. Ltd.</p>
+                                <p className="">Difmo Technologies</p>
                                 <p className=" bg-custom-gradient text-white px-2 py-1 inline-block rounded mt-2">March 2024 - Present</p>
                             </div>
                         </div>
